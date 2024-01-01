@@ -1,5 +1,5 @@
 Hi, my name is Eric.
-I am a Warriors Cats fan.
+Warriors Cats fan.
 
 
 <!---
