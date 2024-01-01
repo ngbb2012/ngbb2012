@@ -1,5 +1,6 @@
-Hi, my name is Eric.
-Warriors Cats fan.
+Hi, my name is Eric.<br>
+WarriorCats fan.<br>
+Don't call me with my user name(Ngbb2012), it's awful.
 
 
 <!---
