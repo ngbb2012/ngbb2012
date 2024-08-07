@@ -1,6 +1,4 @@
-Hi, my name is Eric.<br>
-WarriorCats fan.<br>
-Don't call me with my user name(Ngbb2012).
+I am a furry(_maybe_) losing hope in humanity.
 
 
 <!---
