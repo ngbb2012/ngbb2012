@@ -1,4 +1,4 @@
-I am a furry(_maybe_) losing hope in humanity.
+I am slowly losing hope in humanity.
 
 
 <!---
